@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 var prefix = "tinex.";
 
-client.login("NDk4NTc2NDgxMTYxODM4NTk1.DqUOjw.yVPvN1tBzN5boSK28VuWlR5rdCY");
+client.login("TOKEN");
 
 client.on("ready", () => {
 
